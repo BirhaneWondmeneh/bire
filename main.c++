@@ -1,12 +1,3 @@
-#include<iostream>
-int main()
-{
-    int a=5;
-    int b=6;
-    int c;
-    c=a+b;
-    cout<<c;
-}
 #include <iostream>
 using namespace std;
 struct Node {
